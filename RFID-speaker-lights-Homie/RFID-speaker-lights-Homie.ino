@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <arduino_secrets.h>
 
 /*
  * RFID Scanner with audio and lights
